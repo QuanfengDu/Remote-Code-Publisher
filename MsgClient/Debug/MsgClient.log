@@ -1,0 +1,13 @@
+﻿  MsgClient.cpp
+c:\users\15210\desktop\cppcli-wpf-app5\filesystem\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Utilities.cpp
+  Sockets.cpp
+  Logger.cpp
+  Cpp11-BlockingQueue.cpp
+  HttpMessage.cpp
+  FileSystem.cpp
+c:\users\15210\desktop\cppcli-wpf-app5\filesystem\filesystem.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\15210\desktop\cppcli-wpf-app5\filesystem\filesystem.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  MsgClient.vcxproj -> C:\Users\15210\Desktop\CppCli-WPF-App5\Debug\MsgClient.exe
+  MsgClient.vcxproj -> C:\Users\15210\Desktop\CppCli-WPF-App5\Debug\MsgClient.pdb (Full PDB)
